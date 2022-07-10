@@ -4,12 +4,12 @@ In this project, I have analyzed the Covid-19 India dataset, an open-source data
 
 I have followed a professional approach to build an interactive and impactful dashboard.
 
-Data Transformation using Power Query
-Applied DAX concept to find additional information
-Data Modeling
-Build Dashboard
-Publish report on Power BI service (Online Server)
-Configured Schedule Refresh
+Data Transformation using Power Query > 
+Applied DAX concept to find additional information > 
+Data Modeling > 
+Build Dashboard > 
+Publish report on Power BI service (Online Server) > 
+Configured Schedule Refresh 
 
 Here's a quick snapshot of my work-
 
